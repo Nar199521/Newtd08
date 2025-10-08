@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pydantic
+sqlalchemy
+alembic
+python-multipart
+passlib[bcrypt]
+python-jose
+pandas
+yfinance
